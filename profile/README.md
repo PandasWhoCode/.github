@@ -1,8 +1,6 @@
 ## Pandas Who Code
 
-Innovating in Web3 and Open Source Development
-
-Welcome to PandasWhoCode, a software development organization focused on Web3, open-source projects, and cutting-edge technology. We specialize in:
+Welcome to PandasWhoCode, a software development organization focused on open-source projects, and cutting-edge technology. We specialize in:
 
 💻 Open Source Contributions
 
